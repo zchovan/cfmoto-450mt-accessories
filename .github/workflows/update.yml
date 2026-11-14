@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       scrape:
-        description: "Re-scrape cfmotoparts.eu (takes ~12 min). Untick to only rebuild the page."
+        description: "Re-scrape both shops (takes ~25 min). Untick to only rebuild the page."
         type: boolean
         default: true
   push:
@@ -24,7 +24,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v7
 
@@ -35,6 +35,18 @@ jobs:
       - name: Scrape cfmotoparts.eu
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.scrape)
         run: python scrape.py
+
+      # The Hungarian shop is behind Cloudflare and may refuse CI traffic. If this step fails,
+      # the run carries on with the last committed data/hu_shop.json.
+      - name: Scrape cfmoto-official.hu
+        id: hu
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.scrape)
+        continue-on-error: true
+        run: python scrape_hu.py
+
+      - name: Warn if the Hungarian scrape failed
+        if: steps.hu.outcome == 'failure'
+        run: echo "::warning::cfmoto-official.hu scrape failed; the page keeps the previous Hungarian prices."
 
       - name: Build page
         run: python build.py
