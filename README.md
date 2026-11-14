@@ -1,0 +1,33 @@
+# CFMOTO 450MT accessories
+
+A browsable, filterable list of the accessories offered for the CFMOTO 450MT on
+[cfmotoparts.eu](https://cfmotoparts.eu/search-accessories?field_accessory_category_tid=1265),
+with pictures, prices converted to HUF, functional groups, and a running total for the items you tick.
+
+**Live page:** https://zchovan.github.io/cfmoto-450mt-accessories/
+
+## How it works
+
+| File | What it does |
+|---|---|
+| `scrape.py` | Reads the 450MT accessory category and every product page (10 s between requests, as the site's robots.txt asks), converts EUR to HUF at the ECB daily rate, writes `data/accessories.json`. |
+| `build.py` | Removes duplicate SKUs, assigns each item to a group (keyword rules in `GROUPS`), writes `data/accessories.csv` and the page `site/index.html`. |
+| `.github/workflows/update.yml` | Every Monday: scrape → build → commit changed data → deploy to GitHub Pages. Also runs on every push (rebuild only) and on demand. |
+
+Because the data is committed on each run, `git log -p data/accessories.csv` shows how prices changed over time.
+
+## Run locally
+
+```bash
+python3 scrape.py   # ~12 minutes
+python3 build.py
+open site/index.html
+```
+
+No dependencies beyond Python 3.
+
+## Refresh now
+
+GitHub → **Actions** → **Update prices and deploy page** → **Run workflow**.
+
+Prices are the shop's retail prices in EUR; HUF values are an approximate conversion, not a quote.
