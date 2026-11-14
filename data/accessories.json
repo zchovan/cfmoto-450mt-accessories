@@ -1,28 +1,8 @@
 {
- "scraped_at": "2026-11-12",
- "eur_huf": 364.98,
- "rate_date": "2026-11-12",
+ "scraped_at": "2026-11-14",
+ "eur_huf": 365.6,
+ "rate_date": "2026-11-13",
  "items": [
-  {
-   "product": "TANK PAD",
-   "sku": "6AQV-802800-6000",
-   "name": "TANKPAD_450MT",
-   "stock": "In stock",
-   "price_eur": 49.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-802800-6000_1.png",
-   "url": "https://cfmotoparts.eu/tank-pad",
-   "price_huf": 17884
-  },
-  {
-   "product": "RADIATOR GUARD",
-   "sku": "6AQV-804200-6000",
-   "name": "RADIATOR GUARD",
-   "stock": "In stock",
-   "price_eur": 89.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804200-6000_0.jpg",
-   "url": "https://cfmotoparts.eu/radiator-guard",
-   "price_huf": 32483
-  },
   {
    "product": "Aluminum Pannier Bracket",
    "sku": "6AQV-802100-6000",
@@ -31,7 +11,7 @@
    "price_eur": 239.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-802100-6000_0.jpg",
    "url": "https://cfmotoparts.eu/aluminum-pannier-bracket",
-   "price_huf": 87230
+   "price_huf": 87378
   },
   {
    "product": "OFF-ROAD FOOTRESTS",
@@ -41,7 +21,7 @@
    "price_eur": 89.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-802200-6000_0.jpg",
    "url": "https://cfmotoparts.eu/road-footrests",
-   "price_huf": 32483
+   "price_huf": 32538
   },
   {
    "product": "LOW FENDER ASSY-ZEPHYR BLUE",
@@ -51,7 +31,7 @@
    "price_eur": 99.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-809000-6000-0EN00_0.png",
    "url": "https://cfmotoparts.eu/low-fender-assy-zephyr-blue",
-   "price_huf": 36133
+   "price_huf": 36194
   },
   {
    "product": "WATERPROOF OFFROAD PANNIERS",
@@ -61,7 +41,7 @@
    "price_eur": 499.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806000-6000_2.jpg",
    "url": "https://cfmotoparts.eu/waterproof-offroad-panniers",
-   "price_huf": 182125
+   "price_huf": 182434
   },
   {
    "product": "LOW FENDER ASSY-TUNDRA GREY",
@@ -71,7 +51,7 @@
    "price_eur": 99.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-809100-6000-0HJ00_0.png",
    "url": "https://cfmotoparts.eu/low-fender-assy-tundra-grey",
-   "price_huf": 36133
+   "price_huf": 36194
   },
   {
    "product": "T-BOX(Europe、Asia、Africa、Australia)[Excluding Turkey]",
@@ -81,7 +61,7 @@
    "price_eur": 279.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-800010-6000_0.jpg",
    "url": "https://cfmotoparts.eu/t-boxeurope%E3%80%81asia%E3%80%81africa%E3%80%81australiaexcluding-turkey",
-   "price_huf": 101829
+   "price_huf": 102002
   },
   {
    "product": "HIGH FENDER ASSY-ZEPHYR BLUE",
@@ -91,7 +71,7 @@
    "price_eur": 109.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-809000-6101-0EN00_0.png",
    "url": "https://cfmotoparts.eu/high-fender-assy-zephyr-blue",
-   "price_huf": 39783
+   "price_huf": 39850
   },
   {
    "product": "HEATING CRIPS ASSY",
@@ -101,7 +81,7 @@
    "price_eur": 129.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-800300-6000_0.jpg",
    "url": "https://cfmotoparts.eu/heating-crips-assy",
-   "price_huf": 47082
+   "price_huf": 47162
   },
   {
    "product": "WRAP-AROUND HANDGUARD CFMOTO 450MT/ 800MT-X/1000MT-X",
@@ -111,7 +91,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804600-6000_0.png",
    "url": "https://cfmotoparts.eu/wrap-around-handguard-cfmoto-450mt-800mt-x1000mt-x",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "CHAIN GUIDE",
@@ -121,7 +101,27 @@
    "price_eur": 49.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804900-6000_0.jpg",
    "url": "https://cfmotoparts.eu/chain-guide",
-   "price_huf": 17884
+   "price_huf": 17914
+  },
+  {
+   "product": "TANK PAD",
+   "sku": "6AQV-802800-6000",
+   "name": "TANKPAD_450MT",
+   "stock": "In stock",
+   "price_eur": 49.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-802800-6000_1.png",
+   "url": "https://cfmotoparts.eu/tank-pad",
+   "price_huf": 17914
+  },
+  {
+   "product": "RADIATOR GUARD",
+   "sku": "6AQV-804200-6000",
+   "name": "RADIATOR GUARD",
+   "stock": "In stock",
+   "price_eur": 89.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804200-6000_0.jpg",
+   "url": "https://cfmotoparts.eu/radiator-guard",
+   "price_huf": 32538
   },
   {
    "product": "LOWER CRASH BAR_BLACK",
@@ -131,7 +131,7 @@
    "price_eur": 79.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-802000-6000_0.jpg",
    "url": "https://cfmotoparts.eu/lower-crash-barblack",
-   "price_huf": 28833
+   "price_huf": 28882
   },
   {
    "product": "CENTRAL STAND",
@@ -141,7 +141,7 @@
    "price_eur": 79.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-805000-6000_0.jpg",
    "url": "https://cfmotoparts.eu/central-stand",
-   "price_huf": 28833
+   "price_huf": 28882
   },
   {
    "product": "SKID PLATE_SILVER",
@@ -151,7 +151,7 @@
    "price_eur": 189.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806100-6000_0.jpg",
    "url": "https://cfmotoparts.eu/skid-platesilver",
-   "price_huf": 68981
+   "price_huf": 69098
   },
   {
    "product": "HEIGHTENED WINDSHIELD",
@@ -161,7 +161,7 @@
    "price_eur": 99.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804100-6000_1.jpg",
    "url": "https://cfmotoparts.eu/heightened-windshield-0",
-   "price_huf": 36133
+   "price_huf": 36194
   },
   {
    "product": "FRONT BRAKE CALIPER GUARD",
@@ -171,7 +171,7 @@
    "price_eur": 19.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804400-6000_0.jpg",
    "url": "https://cfmotoparts.eu/front-brake-caliper-guard",
-   "price_huf": 6935
+   "price_huf": 6946
   },
   {
    "product": "PANNIER RACKS",
@@ -181,7 +181,7 @@
    "price_eur": 129.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-803000-6000_0.jpg",
    "url": "https://cfmotoparts.eu/pannier-racks",
-   "price_huf": 47082
+   "price_huf": 47162
   },
   {
    "product": "REAR BRAKE FLUID RESERVOIR GUARD",
@@ -191,97 +191,7 @@
    "price_eur": 19.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804300-6000_0.jpg",
    "url": "https://cfmotoparts.eu/rear-brake-fluid-reservoir-guard",
-   "price_huf": 6935
-  },
-  {
-   "product": "SKID PLATE_BLACK",
-   "sku": "6AQV-806100-6000-10",
-   "name": "ENGINE LOWER PANEL_BLACK",
-   "stock": "In stock",
-   "price_eur": 189.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806100-6000-10_0.jpg",
-   "url": "https://cfmotoparts.eu/skid-plateblack",
-   "price_huf": 68981
-  },
-  {
-   "product": "ENGINE COVER LH+RH",
-   "sku": "6AQV-806200-6000",
-   "name": "ENGINE SIDE COVER_LH+RH",
-   "stock": "In stock",
-   "price_eur": 39.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806200-6000_0.jpg",
-   "url": "https://cfmotoparts.eu/engine-cover-lhrh",
-   "price_huf": 14234
-  },
-  {
-   "product": "RALLY SEAT(TALL AUSTIN PINK)",
-   "sku": "6AQV-807100-6000",
-   "name": "HEIGHTENED SEAT_AUSTIN PINK",
-   "stock": "In supplier's stock",
-   "price_eur": 99.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image//d528ed0eab5947ff8b7d45df7861e6f2.jpg",
-   "url": "https://cfmotoparts.eu/rally-seattall-austin-pink",
-   "price_huf": 36133
-  },
-  {
-   "product": "RALLY SEAT(TALL FLUORESCENT YELLOW)",
-   "sku": "6AQV-807100-6000-10",
-   "name": "HEIGHTENED SEAT_YELLOW",
-   "stock": "In supplier's stock",
-   "price_eur": 109.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/8016b830fe67689ede436abe2345a9b7_0.jpg",
-   "url": "https://cfmotoparts.eu/rally-seattall-fluorescent-yellow",
-   "price_huf": 39783
-  },
-  {
-   "product": "RALLY SEAT(TALL FLUORESCENT YELLOW)",
-   "sku": "6AQV-807100-6000",
-   "name": "HEIGHTENED SEAT_AUSTIN PINK",
-   "stock": "In supplier's stock",
-   "price_eur": 99.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image//d528ed0eab5947ff8b7d45df7861e6f2.jpg",
-   "url": "https://cfmotoparts.eu/rally-seattall-fluorescent-yellow",
-   "price_huf": 36133
-  },
-  {
-   "product": "handlebars raised seat",
-   "sku": "6WWV-807000-5000",
-   "name": "HIGHTENED SEAT, HANDLEBAR SILVER",
-   "stock": "In stock",
-   "price_eur": 39.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WWV-807000-5000_0.png",
-   "url": "https://cfmotoparts.eu/handlebars-raised-seat",
-   "price_huf": 14234
-  },
-  {
-   "product": "handlebars raised seat",
-   "sku": "6WWV-807000-5001",
-   "name": "HIGHTENED SEAT, HANDLEBAR_ BLACK",
-   "stock": "In stock",
-   "price_eur": 39.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WWV-807000-5001_0.jpg",
-   "url": "https://cfmotoparts.eu/handlebars-raised-seat",
-   "price_huf": 14234
-  },
-  {
-   "product": "Water-proof side bags for CFMOTO 450MT / 700MT / 800MT / 800MT-X / 1000MT-X",
-   "sku": "6AQV-804800-6001",
-   "name": "WATER-PROOF SIDE BAG",
-   "stock": "In stock",
-   "price_eur": 199.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Soniniai%20krepsiai%20CFMOTO%20450MT%20ir%20800-1000MT-X%20%281%29.jpg",
-   "url": "https://cfmotoparts.eu/water-proof-side-bags-cfmoto-450mt-700mt-800mt-800mt-x-1000mt-x",
-   "price_huf": 72631
-  },
-  {
-   "product": "SIDE STAND EXPANSION SEAT(BLACK)",
-   "sku": "6AQV-804500-6000",
-   "name": "SIDE STAND ENLARGED BASE",
-   "stock": "In stock",
-   "price_eur": 39.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804500-6000_0.jpg",
-   "url": "https://cfmotoparts.eu/side-stand-expansion-seatblack",
-   "price_huf": 14234
+   "price_huf": 6946
   },
   {
    "product": "UPPER CRASH BAR-GREY",
@@ -291,7 +201,7 @@
    "price_eur": 109.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-801000-6001_0.jpg",
    "url": "https://cfmotoparts.eu/upper-crash-bar-grey",
-   "price_huf": 39783
+   "price_huf": 39850
   },
   {
    "product": "LOWER GRASH BAR_GREY",
@@ -301,7 +211,97 @@
    "price_eur": 79.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-802000-6001_0.jpg",
    "url": "https://cfmotoparts.eu/lower-grash-bargrey",
-   "price_huf": 28833
+   "price_huf": 28882
+  },
+  {
+   "product": "SKID PLATE_BLACK",
+   "sku": "6AQV-806100-6000-10",
+   "name": "ENGINE LOWER PANEL_BLACK",
+   "stock": "In stock",
+   "price_eur": 189.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806100-6000-10_0.jpg",
+   "url": "https://cfmotoparts.eu/skid-plateblack",
+   "price_huf": 69098
+  },
+  {
+   "product": "ENGINE COVER LH+RH",
+   "sku": "6AQV-806200-6000",
+   "name": "ENGINE SIDE COVER_LH+RH",
+   "stock": "In stock",
+   "price_eur": 39.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806200-6000_0.jpg",
+   "url": "https://cfmotoparts.eu/engine-cover-lhrh",
+   "price_huf": 14258
+  },
+  {
+   "product": "RALLY SEAT(TALL AUSTIN PINK)",
+   "sku": "6AQV-807100-6000",
+   "name": "HEIGHTENED SEAT_AUSTIN PINK",
+   "stock": "In supplier's stock",
+   "price_eur": 99.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image//d528ed0eab5947ff8b7d45df7861e6f2.jpg",
+   "url": "https://cfmotoparts.eu/rally-seattall-austin-pink",
+   "price_huf": 36194
+  },
+  {
+   "product": "RALLY SEAT(TALL FLUORESCENT YELLOW)",
+   "sku": "6AQV-807100-6000-10",
+   "name": "HEIGHTENED SEAT_YELLOW",
+   "stock": "In supplier's stock",
+   "price_eur": 109.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/8016b830fe67689ede436abe2345a9b7_0.jpg",
+   "url": "https://cfmotoparts.eu/rally-seattall-fluorescent-yellow",
+   "price_huf": 39850
+  },
+  {
+   "product": "RALLY SEAT(TALL FLUORESCENT YELLOW)",
+   "sku": "6AQV-807100-6000",
+   "name": "HEIGHTENED SEAT_AUSTIN PINK",
+   "stock": "In supplier's stock",
+   "price_eur": 99.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image//d528ed0eab5947ff8b7d45df7861e6f2.jpg",
+   "url": "https://cfmotoparts.eu/rally-seattall-fluorescent-yellow",
+   "price_huf": 36194
+  },
+  {
+   "product": "handlebars raised seat",
+   "sku": "6WWV-807000-5000",
+   "name": "HIGHTENED SEAT, HANDLEBAR SILVER",
+   "stock": "In stock",
+   "price_eur": 39.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WWV-807000-5000_0.png",
+   "url": "https://cfmotoparts.eu/handlebars-raised-seat",
+   "price_huf": 14258
+  },
+  {
+   "product": "handlebars raised seat",
+   "sku": "6WWV-807000-5001",
+   "name": "HIGHTENED SEAT, HANDLEBAR_ BLACK",
+   "stock": "In stock",
+   "price_eur": 39.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WWV-807000-5001_0.jpg",
+   "url": "https://cfmotoparts.eu/handlebars-raised-seat",
+   "price_huf": 14258
+  },
+  {
+   "product": "Water-proof side bags for CFMOTO 450MT / 700MT / 800MT / 800MT-X / 1000MT-X",
+   "sku": "6AQV-804800-6001",
+   "name": "WATER-PROOF SIDE BAG",
+   "stock": "In stock",
+   "price_eur": 199.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Soniniai%20krepsiai%20CFMOTO%20450MT%20ir%20800-1000MT-X%20%281%29.jpg",
+   "url": "https://cfmotoparts.eu/water-proof-side-bags-cfmoto-450mt-700mt-800mt-800mt-x-1000mt-x",
+   "price_huf": 72754
+  },
+  {
+   "product": "SIDE STAND EXPANSION SEAT(BLACK)",
+   "sku": "6AQV-804500-6000",
+   "name": "SIDE STAND ENLARGED BASE",
+   "stock": "In stock",
+   "price_eur": 39.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-804500-6000_0.jpg",
+   "url": "https://cfmotoparts.eu/side-stand-expansion-seatblack",
+   "price_huf": 14258
   },
   {
    "product": "SHAD TOP CASE TR48 TERRA BLACK EDITION",
@@ -311,7 +311,7 @@
    "price_eur": 369.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/s-l1200.jpg",
    "url": "https://cfmotoparts.eu/shad-top-case-tr48-terra-black-edition",
-   "price_huf": 134678
+   "price_huf": 134906
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -321,7 +321,7 @@
    "price_eur": 389.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/D0TR48100-1-490x490.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 141977
+   "price_huf": 142218
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -331,7 +331,7 @@
    "price_eur": 369.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/s-l1200.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 134678
+   "price_huf": 134906
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -341,7 +341,7 @@
    "price_eur": 79.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/download.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 28833
+   "price_huf": 28882
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -351,7 +351,7 @@
    "price_eur": 99.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/download%20%282%29.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 36133
+   "price_huf": 36194
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -361,7 +361,7 @@
    "price_eur": 39.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/top-case-fitting-kit-10.png",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 14234
+   "price_huf": 14258
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -371,7 +371,7 @@
    "price_eur": 379.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-a0tr614p-d0tr36100l-d0tr36100r-1342676-01_0.jpeg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 138327
+   "price_huf": 138562
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -381,7 +381,7 @@
    "price_eur": 349.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-a0tr614p-d0tr36100l-d0tr36100r-1342676-01.jpeg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 127378
+   "price_huf": 127594
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -391,7 +391,7 @@
    "price_eur": 379.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-w0fr914p-d0tr47100l-d0tr47100r-1515794-01_0.jpeg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 138327
+   "price_huf": 138562
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -401,7 +401,7 @@
    "price_eur": 399.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/bocni-hlinikovy-kufr-na-motorku-shad-terra-tr36-d0tr36100lb-black-edition-levy.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 145627
+   "price_huf": 145874
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -411,7 +411,7 @@
    "price_eur": 369.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/51KuEfomn8L._AC_UF894%2C1000_QL80_.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 134678
+   "price_huf": 134906
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -421,7 +421,7 @@
    "price_eur": 409.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-h0icx594p-d0tr47100lb-d0tr47100rb-1342725-01.jpeg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 149277
+   "price_huf": 149530
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -431,7 +431,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/FIXATIONS-VALISE-LATERALE-213595.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -441,7 +441,7 @@
    "price_eur": 89.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/71R8cz%2BIfyL._AC_UF894%2C1000_QL80_.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 32483
+   "price_huf": 32538
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -451,7 +451,7 @@
    "price_eur": 109.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/2ead6579-9aa7-4c9f-8994-205eae633adb.jpeg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 39783
+   "price_huf": 39850
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -461,7 +461,7 @@
    "price_eur": 159.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-x0sw45-motorcycle-scooter-quad-saddle-bag-travel-40l-waterproof.jpeg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 58032
+   "price_huf": 58130
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -471,7 +471,7 @@
    "price_eur": 419.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/kit-sac-shad-terra-tr30-cadres-lateraux-4p-system-bmw-r-1300-gs.jpg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 152927
+   "price_huf": 153186
   },
   {
    "product": "450 MT - SHAD boxes",
@@ -481,7 +481,7 @@
    "price_eur": 469.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-x0tr401-1161532-01.jpeg",
    "url": "https://cfmotoparts.eu/450-mt-shad-boxes",
-   "price_huf": 171176
+   "price_huf": 171466
   },
   {
    "product": "SHAD TOP CASE TR48 TERRA",
@@ -491,7 +491,7 @@
    "price_eur": 389.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/D0TR48100-1-490x490.jpg",
    "url": "https://cfmotoparts.eu/shad-top-case-tr48-terra",
-   "price_huf": 141977
+   "price_huf": 142218
   },
   {
    "product": "SHAD SW45 REAR BAG",
@@ -501,7 +501,7 @@
    "price_eur": 159.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-x0sw45-motorcycle-scooter-quad-saddle-bag-travel-40l-waterproof.jpeg",
    "url": "https://cfmotoparts.eu/shad-sw45-rear-bag",
-   "price_huf": 58032
+   "price_huf": 58130
   },
   {
    "product": "SHAD PETATE SW38",
@@ -511,7 +511,7 @@
    "price_eur": 89.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/71R8cz%2BIfyL._AC_UF894%2C1000_QL80_.jpg",
    "url": "https://cfmotoparts.eu/shad-petate-sw38",
-   "price_huf": 32483
+   "price_huf": 32538
   },
   {
    "product": "SHAD BACKREST TERRA TOP CASES",
@@ -521,7 +521,7 @@
    "price_eur": 79.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/download.jpg",
    "url": "https://cfmotoparts.eu/shad-backrest-terra-top-cases",
-   "price_huf": 28833
+   "price_huf": 28882
   },
   {
    "product": "SHAD BLACK ALUMINUM PLATE + SCREWS",
@@ -531,7 +531,7 @@
    "price_eur": 99.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/download%20%282%29.jpg",
    "url": "https://cfmotoparts.eu/shad-black-aluminum-plate-screws",
-   "price_huf": 36133
+   "price_huf": 36194
   },
   {
    "product": "SHAD TOP MASTER CFMOTO 450 MT",
@@ -541,7 +541,7 @@
    "price_eur": 39.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/top-case-fitting-kit-10.png",
    "url": "https://cfmotoparts.eu/shad-top-master-cfmoto-450-mt",
-   "price_huf": 14234
+   "price_huf": 14258
   },
   {
    "product": "SHAD LEFT SIDE SUITCASE TR36L TERRA BLACK EDITION",
@@ -551,7 +551,7 @@
    "price_eur": 369.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/51KuEfomn8L._AC_UF894%2C1000_QL80_.jpg",
    "url": "https://cfmotoparts.eu/shad-left-side-suitcase-tr36l-terra-black-edition",
-   "price_huf": 134678
+   "price_huf": 134906
   },
   {
    "product": "SHAD TR36R TERRA BLACK EDITION RIGHT SIDE SUITCASE",
@@ -561,7 +561,7 @@
    "price_eur": 399.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/bocni-hlinikovy-kufr-na-motorku-shad-terra-tr36-d0tr36100lb-black-edition-levy.jpg",
    "url": "https://cfmotoparts.eu/shad-tr36r-terra-black-edition-right-side-suitcase",
-   "price_huf": 145627
+   "price_huf": 145874
   },
   {
    "product": "SHAD LEFT SIDE SUITCASE TR36L TERRA",
@@ -571,7 +571,7 @@
    "price_eur": 349.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-a0tr614p-d0tr36100l-d0tr36100r-1342676-01.jpeg",
    "url": "https://cfmotoparts.eu/shad-left-side-suitcase-tr36l-terra",
-   "price_huf": 127378
+   "price_huf": 127594
   },
   {
    "product": "SHAD RIGHT SIDE SUITCASE TR36L TERRA",
@@ -581,7 +581,7 @@
    "price_eur": 379.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-a0tr614p-d0tr36100l-d0tr36100r-1342676-01_0.jpeg",
    "url": "https://cfmotoparts.eu/shad-right-side-suitcase-tr36l-terra",
-   "price_huf": 138327
+   "price_huf": 138562
   },
   {
    "product": "SHAD LEFT SIDE SUITCASE TR47L TERRA",
@@ -591,7 +591,7 @@
    "price_eur": 379.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-w0fr914p-d0tr47100l-d0tr47100r-1515794-01_0.jpeg",
    "url": "https://cfmotoparts.eu/shad-left-side-suitcase-tr47l-terra",
-   "price_huf": 138327
+   "price_huf": 138562
   },
   {
    "product": "SHAD LEFT SIDE SUITCASE TR47L TERRA BLACK EDITION",
@@ -601,7 +601,7 @@
    "price_eur": 409.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-h0icx594p-d0tr47100lb-d0tr47100rb-1342725-01.jpeg",
    "url": "https://cfmotoparts.eu/shad-left-side-suitcase-tr47l-terra-black-edition",
-   "price_huf": 149277
+   "price_huf": 149530
   },
   {
    "product": "SHAD TERRA ADVENTURE TR40 SADDLEBAGS",
@@ -611,7 +611,7 @@
    "price_eur": 469.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad-x0tr401-1161532-01.jpeg",
    "url": "https://cfmotoparts.eu/shad-terra-adventure-tr40-saddlebags",
-   "price_huf": 171176
+   "price_huf": 171466
   },
   {
    "product": "SHAD 4P SYSTEM CFMOTO 450 MT",
@@ -621,7 +621,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/FIXATIONS-VALISE-LATERALE-213595.jpg",
    "url": "https://cfmotoparts.eu/shad-4p-system-cfmoto-450-mt",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "SHAD TERRA SUITCASE INTERNAL BAG",
@@ -631,7 +631,27 @@
    "price_eur": 59.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/shad_borsainterna_tr47.jpg",
    "url": "https://cfmotoparts.eu/shad-terra-suitcase-internal-bag",
-   "price_huf": 21534
+   "price_huf": 21570
+  },
+  {
+   "product": "450MT side boxes",
+   "sku": "6NT1-222000/223000",
+   "name": "SIDE BOXES（PLASTIC） - CFMOTO",
+   "stock": "In stock",
+   "price_eur": 399.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/WhatsApp%20Image%202025-10-01%20at%2013.29.12%20%281%29.jpeg",
+   "url": "https://cfmotoparts.eu/450mt-side-boxes",
+   "price_huf": 145874
+  },
+  {
+   "product": "450MT side boxes",
+   "sku": "C0MT43XIF",
+   "name": "3P SYSTEM CF MOTO 450MT",
+   "stock": "In stock",
+   "price_eur": 109.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/2ead6579-9aa7-4c9f-8994-205eae633adb.jpeg",
+   "url": "https://cfmotoparts.eu/450mt-side-boxes",
+   "price_huf": 39850
   },
   {
    "product": "SIDE BOXES（PLASTIC） - CFMOTO set",
@@ -641,27 +661,7 @@
    "price_eur": 399.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/WhatsApp%20Image%202025-10-01%20at%2013.29.12%20%281%29.jpeg",
    "url": "https://cfmotoparts.eu/side-boxes%EF%BC%88plastic%EF%BC%89-cfmoto-set",
-   "price_huf": 145627
-  },
-  {
-   "product": "450MT side boxes",
-   "sku": "6NT1-222000/223000",
-   "name": "SIDE BOXES（PLASTIC） - CFMOTO",
-   "stock": "In stock",
-   "price_eur": 399.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/WhatsApp%20Image%202025-10-01%20at%2013.29.12%20%281%29.jpeg",
-   "url": "https://cfmotoparts.eu/450mt-side-boxes",
-   "price_huf": 145627
-  },
-  {
-   "product": "450MT side boxes",
-   "sku": "C0MT43XIF",
-   "name": "3P SYSTEM CF MOTO 450MT",
-   "stock": "In stock",
-   "price_eur": 109.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/2ead6579-9aa7-4c9f-8994-205eae633adb.jpeg",
-   "url": "https://cfmotoparts.eu/450mt-side-boxes",
-   "price_huf": 39783
+   "price_huf": 145874
   },
   {
    "product": "SHAD 3P SYSTEM CF MOTO 450MT",
@@ -671,7 +671,7 @@
    "price_eur": 109.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/2ead6579-9aa7-4c9f-8994-205eae633adb.jpeg",
    "url": "https://cfmotoparts.eu/shad-3p-system-cf-moto-450mt",
-   "price_huf": 39783
+   "price_huf": 39850
   },
   {
    "product": "SHAD TERRA TR30 WATERPROOF SADDLEBAGS",
@@ -681,7 +681,7 @@
    "price_eur": 419.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/kit-sac-shad-terra-tr30-cadres-lateraux-4p-system-bmw-r-1300-gs.jpg",
    "url": "https://cfmotoparts.eu/shad-terra-tr30-waterproof-saddlebags",
-   "price_huf": 152927
+   "price_huf": 153186
   },
   {
    "product": "PANNIER SET",
@@ -691,7 +691,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/a92b910dd75b12c7f77e13df5f429a16_0.jpg",
    "url": "https://cfmotoparts.eu/pannier-set",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "PANNIER SET",
@@ -701,7 +701,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WWV-808000-5002-10_0.png",
    "url": "https://cfmotoparts.eu/pannier-set",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "PANNIER SET",
@@ -711,7 +711,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WWV-808000-5002_0.png",
    "url": "https://cfmotoparts.eu/pannier-set",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "SHORTENED BILLET CLUTCH LEVER",
@@ -721,7 +721,7 @@
    "price_eur": 49.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WXV-802100-2000_0.jpg",
    "url": "https://cfmotoparts.eu/shortened-billet-clutch-lever",
-   "price_huf": 17884
+   "price_huf": 17914
   },
   {
    "product": "450/700/800MT/800MT-X CFMOTO Separate Aluminum Cases (Silver)",
@@ -731,7 +731,7 @@
    "price_eur": 499.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/H0QpbT_1000x1000_2f30cf2f3f0a38bb.jpg",
    "url": "https://cfmotoparts.eu/450700800mt800mt-x-cfmoto-separate-aluminum-cases-silver",
-   "price_huf": 182125
+   "price_huf": 182434
   },
   {
    "product": "450/700/800MT/800MT-X CFMOTO Separate Aluminum Cases (Silver)",
@@ -741,7 +741,7 @@
    "price_eur": 499.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/8qP62h_1000x1000_ea0a87626326c188.jpg",
    "url": "https://cfmotoparts.eu/450700800mt800mt-x-cfmoto-separate-aluminum-cases-silver",
-   "price_huf": 182125
+   "price_huf": 182434
   },
   {
    "product": "450/700/800MT/800MT-X CFMOTO Separate Aluminum Cases (Silver)",
@@ -751,7 +751,7 @@
    "price_eur": 399.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/7BrL4W_1000x1000_dabd54ca1e8c7b3f.jpg",
    "url": "https://cfmotoparts.eu/450700800mt800mt-x-cfmoto-separate-aluminum-cases-silver",
-   "price_huf": 145627
+   "price_huf": 145874
   },
   {
    "product": "450/700/800MT/800MT-X CFMOTO Separate Aluminum Cases (Silver)",
@@ -761,7 +761,7 @@
    "price_eur": 399.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/7BrL4W_1000x1000_dabd54ca1e8c7b3f%20%281%29.jpg",
    "url": "https://cfmotoparts.eu/450700800mt800mt-x-cfmoto-separate-aluminum-cases-silver",
-   "price_huf": 145627
+   "price_huf": 145874
   },
   {
    "product": "450/700/800MT/800MT-X CFMOTO Separate Aluminum Cases (Silver)",
@@ -771,7 +771,7 @@
    "price_eur": 99.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/A04.jpg",
    "url": "https://cfmotoparts.eu/450700800mt800mt-x-cfmoto-separate-aluminum-cases-silver",
-   "price_huf": 36133
+   "price_huf": 36194
   },
   {
    "product": "450/700/800MT/800MT-X CFMOTO Separate Aluminum Cases (Silver)",
@@ -781,7 +781,7 @@
    "price_eur": 99.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6WWV-803200-5002_0.png",
    "url": "https://cfmotoparts.eu/450700800mt800mt-x-cfmoto-separate-aluminum-cases-silver",
-   "price_huf": 36133
+   "price_huf": 36194
   },
   {
    "product": "450/700/800MT/800MT-X CFMOTO Separate Aluminum Cases (Silver)",
@@ -791,7 +791,7 @@
    "price_eur": 21.9,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6wwv-803100-5000-23.jpg",
    "url": "https://cfmotoparts.eu/450700800mt800mt-x-cfmoto-separate-aluminum-cases-silver",
-   "price_huf": 7993
+   "price_huf": 8007
   },
   {
    "product": "HIGH FENDER ASSY-TUNDRA GREY",
@@ -801,7 +801,7 @@
    "price_eur": 109.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-809100-6101-0HJ00_0.png",
    "url": "https://cfmotoparts.eu/high-fender-assy-tundra-grey",
-   "price_huf": 39783
+   "price_huf": 39850
   },
   {
    "product": "450MT Akrapovic slip-on muffler",
@@ -811,7 +811,7 @@
    "price_eur": 749.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-803110-6000_0.png",
    "url": "https://cfmotoparts.eu/450mt-akrapovic-slip-muffler",
-   "price_huf": 273370
+   "price_huf": 273834
   },
   {
    "product": "BMC Air Filter (Ref. FM01218) for CFMOTO CL-C 450 ’24-, MT 450 ’24-, NK 450 ’23-, SR 450 ’23-",
@@ -821,7 +821,7 @@
    "price_eur": 119.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/agorace-bmc-kit-filtru-aer-racing-cfmoto450mt-fm01218.jpg",
    "url": "https://cfmotoparts.eu/bmc-air-filter-ref-fm01218-cfmoto-cl-c-450-%E2%80%9924-mt-450-%E2%80%9924-nk-450-%E2%80%9923-sr-450-%E2%80%9923",
-   "price_huf": 43433
+   "price_huf": 43506
   },
   {
    "product": "DNA Air Filter for CFMOTO 450 MT",
@@ -831,7 +831,7 @@
    "price_eur": 119.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/CFM-450MT.jpg",
    "url": "https://cfmotoparts.eu/dna-air-filter-cfmoto-450-mt",
-   "price_huf": 43433
+   "price_huf": 43506
   },
   {
    "product": "DNA Air Filter for CFMOTO 450 MT",
@@ -841,7 +841,27 @@
    "price_eur": 79.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/72221D09-6091-4738-B958-FF6736F9897E_f18bb99c-c4e0-43bd-af3a-5252ec942366.jpg",
    "url": "https://cfmotoparts.eu/dna-air-filter-cfmoto-450-mt",
-   "price_huf": 28833
+   "price_huf": 28882
+  },
+  {
+   "product": "HEATING SEAT 450MT",
+   "sku": "6AQV-806400-6000-10",
+   "name": "HEATING SEAT_LEMON GREEN",
+   "stock": "In stock",
+   "price_eur": 199.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806400-6000-10_0.jpg",
+   "url": "https://cfmotoparts.eu/heating-seat-450mt",
+   "price_huf": 72754
+  },
+  {
+   "product": "HEATING SEAT 450MT",
+   "sku": "6AQV-806400-6000",
+   "name": "HEATING SEAT_PINK",
+   "stock": "In stock",
+   "price_eur": 199.0,
+   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806400-6000_0.jpg",
+   "url": "https://cfmotoparts.eu/heating-seat-450mt",
+   "price_huf": 72754
   },
   {
    "product": "HEATING CUSHION_FLUORESCENT YELLOW",
@@ -851,27 +871,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806400-6000-10_0.jpg",
    "url": "https://cfmotoparts.eu/heating-cushionfluorescent-yellow",
-   "price_huf": 72631
-  },
-  {
-   "product": "HEATING SEAT 450MT",
-   "sku": "6AQV-806400-6000-10",
-   "name": "HEATING SEAT_LEMON GREEN",
-   "stock": "In stock",
-   "price_eur": 199.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806400-6000-10_0.jpg",
-   "url": "https://cfmotoparts.eu/heating-seat-450mt",
-   "price_huf": 72631
-  },
-  {
-   "product": "HEATING SEAT 450MT",
-   "sku": "6AQV-806400-6000",
-   "name": "HEATING SEAT_PINK",
-   "stock": "In stock",
-   "price_eur": 199.0,
-   "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806400-6000_0.jpg",
-   "url": "https://cfmotoparts.eu/heating-seat-450mt",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "HEATING CUSHION_ AUSTIN PINK",
@@ -881,7 +881,7 @@
    "price_eur": 199.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806400-6000_0.jpg",
    "url": "https://cfmotoparts.eu/heating-cushion-austin-pink",
-   "price_huf": 72631
+   "price_huf": 72754
   },
   {
    "product": "SHAD TOP MASTER CF MOTO 450 MT/700 MT/800 MTX",
@@ -891,7 +891,7 @@
    "price_eur": 49.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/8430358704336_3.jpg",
    "url": "https://cfmotoparts.eu/shad-top-master-cf-moto-450-mt700-mt800-mtx",
-   "price_huf": 17884
+   "price_huf": 17914
   },
   {
    "product": "MT ROUND-CORNER PANNIER SET",
@@ -901,7 +901,7 @@
    "price_eur": 899.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6GUV-808000-2000-10_0.jpg",
    "url": "https://cfmotoparts.eu/mt-round-corner-pannier-set",
-   "price_huf": 328117
+   "price_huf": 328674
   },
   {
    "product": "MT ROUND-CORNER PANNIER SET",
@@ -911,7 +911,7 @@
    "price_eur": 49.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/8AJV-807230-1000_0.jpg",
    "url": "https://cfmotoparts.eu/mt-round-corner-pannier-set",
-   "price_huf": 17884
+   "price_huf": 17914
   },
   {
    "product": "MT ROUND-CORNER PANNIER SET",
@@ -921,7 +921,7 @@
    "price_eur": 899.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6GUV-808000-2000-11_0.jpg",
    "url": "https://cfmotoparts.eu/mt-round-corner-pannier-set",
-   "price_huf": 328117
+   "price_huf": 328674
   },
   {
    "product": "TAIL BOX BACKREST",
@@ -931,7 +931,7 @@
    "price_eur": 49.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/8AJV-807230-1000_0.jpg",
    "url": "https://cfmotoparts.eu/tail-box-backrest",
-   "price_huf": 17884
+   "price_huf": 17914
   },
   {
    "product": "TAIL BOX BACKREST",
@@ -941,7 +941,7 @@
    "price_eur": 899.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6GUV-808000-2000-10_0.jpg",
    "url": "https://cfmotoparts.eu/tail-box-backrest",
-   "price_huf": 328117
+   "price_huf": 328674
   },
   {
    "product": "450MT TFX suspensions - standard height",
@@ -951,7 +951,7 @@
    "price_eur": 989.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Cartridge%20Assembly%20CFmoto%20450%20MT%20layFlat_0.jpg",
    "url": "https://cfmotoparts.eu/450mt-tfx-suspensions-standard-height",
-   "price_huf": 360965
+   "price_huf": 361578
   },
   {
    "product": "450MT TFX suspensions - standard height",
@@ -961,7 +961,7 @@
    "price_eur": 899.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Screenshot%202025-11-03%20130725.png",
    "url": "https://cfmotoparts.eu/450mt-tfx-suspensions-standard-height",
-   "price_huf": 328117
+   "price_huf": 328674
   },
   {
    "product": "450MT TFX suspensions - standard height",
@@ -971,7 +971,7 @@
    "price_eur": 299.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Cartridge%20Assembly%20CFmoto%20450%20MT%20layFlat_0.jpg",
    "url": "https://cfmotoparts.eu/450mt-tfx-suspensions-standard-height",
-   "price_huf": 109129
+   "price_huf": 109314
   },
   {
    "product": "FUEL TANK BAG CONVENRTING BRACKET",
@@ -981,7 +981,7 @@
    "price_eur": 39.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-806700-6000_0.jpg",
    "url": "https://cfmotoparts.eu/fuel-tank-bag-convenrting-bracket",
-   "price_huf": 14234
+   "price_huf": 14258
   },
   {
    "product": "HIGH FENDER_NEBULA BLACK",
@@ -991,7 +991,7 @@
    "price_eur": 109.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6AQV-809000-6100-0BM00_0.png",
    "url": "https://cfmotoparts.eu/high-fendernebula-black",
-   "price_huf": 39783
+   "price_huf": 39850
   },
   {
    "product": "SIDE BAG SET (LH/RH SIDE BAGS,& LH/RH SMALL SIDE BAG)",
@@ -1001,7 +1001,7 @@
    "price_eur": 799.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/CF-85222B-37000_1.png",
    "url": "https://cfmotoparts.eu/side-bag-set-lhrh-side-bags-lhrh-small-side-bag",
-   "price_huf": 291619
+   "price_huf": 292114
   },
   {
    "product": "ADVENTURE WHEELS - CFMOTO 450MT",
@@ -1011,7 +1011,7 @@
    "price_eur": 699.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/99001FRBK.png",
    "url": "https://cfmotoparts.eu/adventure-wheels-cfmoto-450mt",
-   "price_huf": 255121
+   "price_huf": 255554
   },
   {
    "product": "ADVENTURE WHEELS - CFMOTO 450MT",
@@ -1021,7 +1021,7 @@
    "price_eur": 139.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/99001SPBK.png",
    "url": "https://cfmotoparts.eu/adventure-wheels-cfmoto-450mt",
-   "price_huf": 50732
+   "price_huf": 50818
   },
   {
    "product": "DOPE mirrors – road legal for touring bikes",
@@ -1031,7 +1031,7 @@
    "price_eur": 149.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/LY3A7831-Edytuj-scaled.jpg",
    "url": "https://cfmotoparts.eu/dope-mirrors-%E2%80%93-road-legal-touring-bikes",
-   "price_huf": 54382
+   "price_huf": 54474
   },
   {
    "product": "MT ROUND-CORNER TOP CASE",
@@ -1041,7 +1041,7 @@
    "price_eur": 399.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6GUV-808000-2000-10_2_0.jpg",
    "url": "https://cfmotoparts.eu/mt-round-corner-top-case",
-   "price_huf": 145627
+   "price_huf": 145874
   },
   {
    "product": "MT ROUND-CORNER TOP CASE",
@@ -1051,7 +1051,7 @@
    "price_eur": 399.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/6GUV-808000-2000-10_2_0.jpg",
    "url": "https://cfmotoparts.eu/mt-round-corner-top-case",
-   "price_huf": 145627
+   "price_huf": 145874
   },
   {
    "product": "MT ROUND-CORNER TOP CASE",
@@ -1061,7 +1061,7 @@
    "price_eur": 69.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Screenshot%202026-08-13%20175524.png",
    "url": "https://cfmotoparts.eu/mt-round-corner-top-case",
-   "price_huf": 25184
+   "price_huf": 25226
   },
   {
    "product": "MT ROUND-CORNER TOP CASE",
@@ -1071,7 +1071,7 @@
    "price_eur": 49.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/8AJV-807230-1000_0.jpg",
    "url": "https://cfmotoparts.eu/mt-round-corner-top-case",
-   "price_huf": 17884
+   "price_huf": 17914
   },
   {
    "product": "450MT TFX suspensions — +25 mm height",
@@ -1081,7 +1081,7 @@
    "price_eur": 999.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Cartridge%20Assembly%20CFmoto%20450%20MT%20layFlat.jpg",
    "url": "https://cfmotoparts.eu/450mt-tfx-suspensions-%E2%80%94-25-mm-height",
-   "price_huf": 364615
+   "price_huf": 365234
   },
   {
    "product": "450MT TFX suspensions — +25 mm height",
@@ -1091,7 +1091,7 @@
    "price_eur": 999.0,
    "image": "https://cfmotoparts.eu/sites/default/files/accessory_product_image/Cartridge%20Assembly%20CFmoto%20450%20MT%20layFlat.jpg",
    "url": "https://cfmotoparts.eu/450mt-tfx-suspensions-%E2%80%94-25-mm-height",
-   "price_huf": 364615
+   "price_huf": 365234
   }
  ]
 }
